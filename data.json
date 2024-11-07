@@ -1,0 +1,122 @@
+{
+    "users": 
+    [
+      {
+          "_id": "417a3b81-b9b9-4bf8-8d68-3a354170fdd1",
+          "username": "user3",
+          "profileImage": "",
+          "password": "$2b$12$h7WNTAbLFEEwtEqXGic0rOhfOsBGnAn2hgEoMIZX9HIu7yPqTBXN6"
+      },
+      {
+          "_id": "00c9ae7b-cf7d-42bf-a712-ee82ee67eb87",
+          "username": "user2",
+          "profileImage": "",
+          "password": "$2b$12$zvObq/9SRYYCmOHuopjQBONoVVH4WF4dQS6lUGndQyTSCreJrGgJe"
+      },
+      {
+          "_id": "74d0b776-5ce5-42a0-8155-61d3d028a8b9",
+          "username": "user1",
+          "profileImage": "",
+          "password": "$2b$12$Ib9Yhfbw9zOJUhu8bl3ynurqNUlVIzJsJyjkGDdsHCW8LhYaDZZaO"
+      },
+      {
+          "_id": "e8c5c3d7-65b7-4b82-9789-20ce0ccdc283",
+          "username": "testuser",
+          "profileImage": "",
+          "password": "$2b$10$8kdN9ECSCl.1iSXANUwdOepaSaLet2Jd90VQyEcs7Nv2Shm4TVXoK"
+      },
+      {
+          "_id": "ff3cdd85-a17c-4386-81ca-9b61c24e2e21",
+          "username": "testuser3",
+          "profileImage": "",
+          "password": "$2b$10$Piow94oaNcoFB7npofP6I.DK4rU4b2Ab8whXKTHR5h9CrNVeXODxi"
+      },
+      {
+          "_id": "592473e3-25c3-4d12-a775-5e47231b70ed",
+          "username": "Lapiukas12",
+          "profileImage": "https://thumbs.dreamstime.com/b/cartoon-fox-playful-character-design-depicted-picture-smiling-rendered-realistic-detailed-style-299327640.jpg",
+          "password": "$2b$10$Z2cRCSX63sqXG33iSseX4.nkPqw/kSjUUjWaMlVoKnlYASGG65ra6"
+      },
+      {
+          "_id": "a0ee0ea2-271d-452e-859c-025f2a24bb23",
+          "username": "plutas92",
+          "profileImage": "https://badgeland.com/media/webp_image/catalog/product/cache/afb3d9b5d6719d7ac9304f40f95ae75d/p/l/pluto-stofmaerke.webp",
+          "password": "$2b$10$Zi3oSZLRiiD6JONbqzbEXu7kYH6Un8ah4lDpRdlEy1aiQXaM1JdzS"
+      },
+      {
+          "_id": "7ab87265-4191-41f4-b2b6-41cde3808c10",
+          "username": "Koska",
+          "profileImage": "https://www.rotoscopers.com/wp-content/uploads/2017/01/lucifer.jpg",
+          "password": "$2b$10$/b7osrMPMoYNtymbbMiS0ea99nO.Lg2B3hN5rCR5UZpI8NvyRCwTi"
+      },
+      {
+          "_id": "3e2eb780-9c8b-4ea1-ab15-fb0a4c924faa",
+          "username": "Pumpkinas1",
+          "profileImage": "https://thumbs.dreamstime.com/b/scary-halloween-pumpkin-cartoon-isolated-white-background-34425475.jpg",
+          "password": "$2b$10$086R534jwGNs9X.TPFwiSe188bqDJ/Fq0rCugPbNbW5Z3DhoaPaZS"
+      },
+      {
+          "_id": "7e0ef73a-02ce-45e4-a372-09dfe39a934a",
+          "username": "Kava55",
+          "profileImage": "https://i.pinimg.com/736x/61/49/11/614911a2fb441fc53f4cfc79a98773c8.jpg",
+          "password": "$2b$10$K.GhbTw2nHeiSJiTGTdvC.WHK1MwucqPVE85IFwJE8TDHf5H1rAaO"
+      },
+      {
+          "_id": "a00083d0-f008-4c38-93ef-e61e33b4f7af",
+          "username": "Vienaragis1",
+          "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVD2ynEBzdBCNcb-8bjGP_qPWHkDfPm4ITQ&s",
+          "password": "$2b$10$zmKRCY0IbHr5tpjcH2Xg4.jQcv/qy7iReoXbSsB3vcjjjPDtpj4x6"
+      }
+  ]
+    ,
+    "conversations": [
+      {
+        "_id": "31ddee9e-0774-4c08-85cc-ffd799451c51",
+        "user1":  "592473e3-25c3-4d12-a775-5e47231b70ed",
+        "user2": "a0ee0ea2-271d-452e-859c-025f2a24bb23",
+        "hasUnreadMessages": true
+      },
+      {
+        "_id": "520d7ab0-02ee-4030-b12c-0a6ac7a0d23d",
+        "user1":  "592473e3-25c3-4d12-a775-5e47231b70ed",
+        "user2":  "7ab87265-4191-41f4-b2b6-41cde3808c10",
+        "hasUnreadMessages": false
+      },
+      {
+        "_id": "d91300e8-edfa-4f0d-8ca3-f1bbbf47edf6",
+        "user1":  "592473e3-25c3-4d12-a775-5e47231b70ed",
+        "user2": "3e2eb780-9c8b-4ea1-ab15-fb0a4c924faa",
+        "hasUnreadMessages": false
+      }
+    ],
+    "messages": [
+      {
+        "_id": "f48fc954-20cb-4f48-bb6c-8393c8cb3538",
+        "conversationId": "31ddee9e-0774-4c08-85cc-ffd799451c51",
+        "senderId": "74d0b776-5ce5-42a0-8155-61d3d028a8b9",
+        "content": "Hello from user1 to user2",
+        "timestamp": "2024-10-24T05:43:28.029233",
+        "likes": [
+          "74d0b776-5ce5-42a0-8155-61d3d028a8b9",
+          "00c9ae7b-cf7d-42bf-a712-ee82ee67eb87"
+        ]
+      },
+      {
+        "_id": "b7012209-eb49-47f0-b153-28608aea1da1",
+        "conversationId": "520d7ab0-02ee-4030-b12c-0a6ac7a0d23d",
+        "senderId": "74d0b776-5ce5-42a0-8155-61d3d028a8b9",
+        "content": "Hello from user1 to user3",
+        "timestamp": "2024-10-24T05:43:28.029266",
+        "likes": []
+      },
+      {
+        "_id": "5402c087-c4fa-47e8-9a80-9b122d94f632",
+        "conversationId": "d91300e8-edfa-4f0d-8ca3-f1bbbf47edf6",
+        "senderId": "00c9ae7b-cf7d-42bf-a712-ee82ee67eb87",
+        "content": "Hello from user2 to user3",
+        "timestamp": "2024-10-24T05:43:28.029275",
+        "likes": []
+      }
+    ]
+  }
+  
